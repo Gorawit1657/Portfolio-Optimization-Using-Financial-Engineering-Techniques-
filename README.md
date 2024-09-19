@@ -2,14 +2,9 @@
 
 This project explores the application of financial engineering techniques to optimize a portfolio of assets. Using statistical methods and portfolio theory, the project aims to minimize risk while maximizing returns for a given set of financial assets.
 
-## Project Overview
+## Objective
 
-This repository contains a Jupyter notebook that demonstrates portfolio optimization using key financial engineering concepts. The project is designed to help understand and implement techniques such as:
-
-- **Portfolio Theory and Optimization**: Using Markowitz's Modern Portfolio Theory (MPT) to calculate the optimal asset allocation based on expected returns and covariance.
-- **Capital Asset Pricing Model (CAPM)**: To estimate the expected return of assets based on their risk relative to the market.
-- **Risk and Risk-Adjusted Measures**: Calculation of risk metrics like volatility and Sharpe Ratio to adjust for risk when comparing returns.
-- **Statistical Methods and Analysis**: Use of covariance matrices and statistical modeling to forecast asset performance.
+The goal of this assignment is to apply portfolio optimization techniques to create an optimal investment portfolio using historical data from the S&P 500 index. You will learn how to balance risk and return by constructing a portfolio that minimizes risk or maximizes the Sharpe Ratio, taking into account various constraints and bounds.
   
 ## Key Achievements
 
